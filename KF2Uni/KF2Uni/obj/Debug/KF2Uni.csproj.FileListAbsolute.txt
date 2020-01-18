@@ -1,0 +1,5 @@
+C:\Users\limay\source\repos\KF2Uni\KF2Uni\bin\Debug\KF2Uni.dll
+C:\Users\limay\source\repos\KF2Uni\KF2Uni\bin\Debug\KF2Uni.pdb
+C:\Users\limay\source\repos\KF2Uni\KF2Uni\obj\Debug\KF2Uni.dll
+C:\Users\limay\source\repos\KF2Uni\KF2Uni\obj\Debug\KF2Uni.pdb
+C:\Users\limay\source\repos\KF2Uni\KF2Uni\obj\Debug\KF2Uni.csprojAssemblyReference.cache

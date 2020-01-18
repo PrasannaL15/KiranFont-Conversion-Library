@@ -1,0 +1,12 @@
+C:\Users\limay\source\repos\TestApp\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\limay\source\repos\TestApp\TestApp\bin\Debug\TestApp.exe
+C:\Users\limay\source\repos\TestApp\TestApp\bin\Debug\TestApp.pdb
+C:\Users\limay\source\repos\TestApp\TestApp\obj\Debug\TestApp.Form1.resources
+C:\Users\limay\source\repos\TestApp\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+C:\Users\limay\source\repos\TestApp\TestApp\obj\Debug\TestApp.csproj.GenerateResource.cache
+C:\Users\limay\source\repos\TestApp\TestApp\obj\Debug\TestApp.csproj.CopyComplete
+C:\Users\limay\source\repos\TestApp\TestApp\obj\Debug\TestApp.exe
+C:\Users\limay\source\repos\TestApp\TestApp\obj\Debug\TestApp.pdb
+C:\Users\limay\source\repos\TestApp\TestApp\bin\Debug\KF2Uni.dll
+C:\Users\limay\source\repos\TestApp\TestApp\bin\Debug\KF2Uni.pdb
+C:\Users\limay\source\repos\TestApp\TestApp\obj\Debug\TestApp.csprojAssemblyReference.cache
