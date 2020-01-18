@@ -459,20 +459,31 @@ namespace KF2Uni
                         if (strSingleLetterChars.IndexOf(arr[i].ElementAt(j)) != -1 && j >= 0)
                         {
                             j--;
+                           
+                            if(j>=0)
                             while (arr[i].ElementAt(j).Equals('\\') && j >= 0)
                             {
+                                
                                 j--;
                                 j--;
+                                if (j < 0) break;
                             }
+                            if(j>=0)
                             while (strHalfChars.IndexOf(arr[i].ElementAt(j)) != -1 && j >= 0)
                             {
                                 j--;
                             }
                             break;
                         }
+
                         while (strHalfChars.IndexOf(arr[i].ElementAt(j)) != -1 && j >= 0)
                         {
+                        
                             j--;
+                           if(j<0)
+                            {
+                            break;
+                            }
                         }
                         break;
                     }

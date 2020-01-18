@@ -26,10 +26,10 @@ namespace TestApp
         private void button1_Click(object sender, EventArgs e)
         {
             KF2Uni.KiranFont obj = new KF2Uni.KiranFont();
-            
-            
-            textBox2.Text = obj.convertKFkiran2Uni(textBox1.Text);
-           
+
+            String input = textBox1.Text;
+            String output = obj.convertKFkiran2Uni(input);
+            textBox2.Text = output;
         }
 
         private void button2_Click(object sender, EventArgs e)
