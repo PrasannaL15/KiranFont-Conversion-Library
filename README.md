@@ -19,7 +19,7 @@ The Kiran Font Library is a C# DLL that enables developers to convert text betwe
 
 To use the Kiran Font Library in your C# project, follow these steps:
 
-1. Import the necessary namespace at the top of your C# file:
+Import the necessary namespace at the top of your C# file:
 
    ```csharp
    using KF2Uni; // Import the Kiran Font Library namespace
