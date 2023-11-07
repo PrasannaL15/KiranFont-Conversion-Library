@@ -1,6 +1,6 @@
 # Kiran Font Library
 
-![Kiran Font Logo](kiranfont-logo.png)
+![Kiran Font Logo]([kiranfont-logo.png](http://kiranfont.somee.com/img/kiranfont.gif))
 
 ## Introduction
 
